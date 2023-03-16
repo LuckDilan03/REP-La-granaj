@@ -34,5 +34,5 @@ public class LaGranjadeAdso {
                JOptionPane.showMessageDialog(null,"los granjeros tienen los mismos años");
 
     }
-    
+    hola soy luck
 }
